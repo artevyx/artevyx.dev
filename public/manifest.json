@@ -1,6 +1,6 @@
 {
-	"name": "./artevyx-web",
-	"short_name": "./artevyx-web",
+	"name": "artevyx.dev",
+	"short_name": "artevyx-web",
 	"icons": [
 		{
 			"src": "/logo-128x128.png",

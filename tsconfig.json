@@ -14,9 +14,8 @@
     "jsx": "react-jsx",
     "incremental": true,
     "plugins": [
-      {
-        "name": "next"
-      }
+      { "name": "next" },
+      { "name": "next-pwa" },
     ],
     "paths": {
       "@/*": ["./*"]
@@ -28,7 +27,7 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
-    "**/*.mts"
+    "**/*.mts",
   ],
   "exclude": ["node_modules"]
 }
